@@ -1,0 +1,221 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wcfre\\Desktop\\End to End Engineering C#\\Modulo 4\\ProjetoMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C3EFDF8-D586-4330-9A86-85668A65FC05}|ProjetoMVC.csproj|c:\\users\\wcfre\\desktop\\end to end engineering c#\\modulo 4\\projetomvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C3EFDF8-D586-4330-9A86-85668A65FC05}|ProjetoMVC.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C3EFDF8-D586-4330-9A86-85668A65FC05}|ProjetoMVC.csproj|c:\\users\\wcfre\\desktop\\end to end engineering c#\\modulo 4\\projetomvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C3EFDF8-D586-4330-9A86-85668A65FC05}|ProjetoMVC.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C3EFDF8-D586-4330-9A86-85668A65FC05}|ProjetoMVC.csproj|c:\\users\\wcfre\\desktop\\end to end engineering c#\\modulo 4\\projetomvc\\controllers\\contatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C3EFDF8-D586-4330-9A86-85668A65FC05}|ProjetoMVC.csproj|solutionrelative:controllers\\contatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C3EFDF8-D586-4330-9A86-85668A65FC05}|ProjetoMVC.csproj|c:\\users\\wcfre\\desktop\\end to end engineering c#\\modulo 4\\projetomvc\\views\\contato\\detalhes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C3EFDF8-D586-4330-9A86-85668A65FC05}|ProjetoMVC.csproj|solutionrelative:views\\contato\\detalhes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C3EFDF8-D586-4330-9A86-85668A65FC05}|ProjetoMVC.csproj|c:\\users\\wcfre\\desktop\\end to end engineering c#\\modulo 4\\projetomvc\\views\\contato\\deletar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C3EFDF8-D586-4330-9A86-85668A65FC05}|ProjetoMVC.csproj|solutionrelative:views\\contato\\deletar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C3EFDF8-D586-4330-9A86-85668A65FC05}|ProjetoMVC.csproj|c:\\users\\wcfre\\desktop\\end to end engineering c#\\modulo 4\\projetomvc\\views\\contato\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C3EFDF8-D586-4330-9A86-85668A65FC05}|ProjetoMVC.csproj|solutionrelative:views\\contato\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C3EFDF8-D586-4330-9A86-85668A65FC05}|ProjetoMVC.csproj|c:\\users\\wcfre\\desktop\\end to end engineering c#\\modulo 4\\projetomvc\\views\\contato\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C3EFDF8-D586-4330-9A86-85668A65FC05}|ProjetoMVC.csproj|solutionrelative:views\\contato\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C3EFDF8-D586-4330-9A86-85668A65FC05}|ProjetoMVC.csproj|c:\\users\\wcfre\\desktop\\end to end engineering c#\\modulo 4\\projetomvc\\views\\contato\\criar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C3EFDF8-D586-4330-9A86-85668A65FC05}|ProjetoMVC.csproj|solutionrelative:views\\contato\\criar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C3EFDF8-D586-4330-9A86-85668A65FC05}|ProjetoMVC.csproj|c:\\users\\wcfre\\desktop\\end to end engineering c#\\modulo 4\\projetomvc\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4C3EFDF8-D586-4330-9A86-85668A65FC05}|ProjetoMVC.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C3EFDF8-D586-4330-9A86-85668A65FC05}|ProjetoMVC.csproj|c:\\users\\wcfre\\desktop\\end to end engineering c#\\modulo 4\\projetomvc\\context\\agendacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C3EFDF8-D586-4330-9A86-85668A65FC05}|ProjetoMVC.csproj|solutionrelative:context\\agendacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C3EFDF8-D586-4330-9A86-85668A65FC05}|ProjetoMVC.csproj|c:\\users\\wcfre\\desktop\\end to end engineering c#\\modulo 4\\projetomvc\\models\\contato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C3EFDF8-D586-4330-9A86-85668A65FC05}|ProjetoMVC.csproj|solutionrelative:models\\contato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C3EFDF8-D586-4330-9A86-85668A65FC05}|ProjetoMVC.csproj|c:\\users\\wcfre\\desktop\\end to end engineering c#\\modulo 4\\projetomvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C3EFDF8-D586-4330-9A86-85668A65FC05}|ProjetoMVC.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\wcfre\\Desktop\\End to End Engineering C#\\Modulo 4\\ProjetoMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\wcfre\\Desktop\\End to End Engineering C#\\Modulo 4\\ProjetoMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T21:05:59.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Deletar.cshtml",
+              "DocumentMoniker": "C:\\Users\\wcfre\\Desktop\\End to End Engineering C#\\Modulo 4\\ProjetoMVC\\Views\\Contato\\Deletar.cshtml",
+              "RelativeDocumentMoniker": "Views\\Contato\\Deletar.cshtml",
+              "ToolTip": "C:\\Users\\wcfre\\Desktop\\End to End Engineering C#\\Modulo 4\\ProjetoMVC\\Views\\Contato\\Deletar.cshtml",
+              "RelativeToolTip": "Views\\Contato\\Deletar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T20:58:47.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Detalhes.cshtml",
+              "DocumentMoniker": "C:\\Users\\wcfre\\Desktop\\End to End Engineering C#\\Modulo 4\\ProjetoMVC\\Views\\Contato\\Detalhes.cshtml",
+              "RelativeDocumentMoniker": "Views\\Contato\\Detalhes.cshtml",
+              "ToolTip": "C:\\Users\\wcfre\\Desktop\\End to End Engineering C#\\Modulo 4\\ProjetoMVC\\Views\\Contato\\Detalhes.cshtml",
+              "RelativeToolTip": "Views\\Contato\\Detalhes.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T20:41:07.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Editar.cshtml",
+              "DocumentMoniker": "C:\\Users\\wcfre\\Desktop\\End to End Engineering C#\\Modulo 4\\ProjetoMVC\\Views\\Contato\\Editar.cshtml",
+              "RelativeDocumentMoniker": "Views\\Contato\\Editar.cshtml",
+              "ToolTip": "C:\\Users\\wcfre\\Desktop\\End to End Engineering C#\\Modulo 4\\ProjetoMVC\\Views\\Contato\\Editar.cshtml",
+              "RelativeToolTip": "Views\\Contato\\Editar.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T19:15:31.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Criar.cshtml",
+              "DocumentMoniker": "C:\\Users\\wcfre\\Desktop\\End to End Engineering C#\\Modulo 4\\ProjetoMVC\\Views\\Contato\\Criar.cshtml",
+              "RelativeDocumentMoniker": "Views\\Contato\\Criar.cshtml",
+              "ToolTip": "C:\\Users\\wcfre\\Desktop\\End to End Engineering C#\\Modulo 4\\ProjetoMVC\\Views\\Contato\\Criar.cshtml",
+              "RelativeToolTip": "Views\\Contato\\Criar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T18:43:26.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\wcfre\\Desktop\\End to End Engineering C#\\Modulo 4\\ProjetoMVC\\Views\\Contato\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Contato\\Index.cshtml",
+              "ToolTip": "C:\\Users\\wcfre\\Desktop\\End to End Engineering C#\\Modulo 4\\ProjetoMVC\\Views\\Contato\\Index.cshtml",
+              "RelativeToolTip": "Views\\Contato\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAADAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T18:15:10.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContatoController.cs",
+              "DocumentMoniker": "C:\\Users\\wcfre\\Desktop\\End to End Engineering C#\\Modulo 4\\ProjetoMVC\\Controllers\\ContatoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ContatoController.cs",
+              "ToolTip": "C:\\Users\\wcfre\\Desktop\\End to End Engineering C#\\Modulo 4\\ProjetoMVC\\Controllers\\ContatoController.cs",
+              "RelativeToolTip": "Controllers\\ContatoController.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAgwFwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T18:02:50.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\wcfre\\Desktop\\End to End Engineering C#\\Modulo 4\\ProjetoMVC\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\wcfre\\Desktop\\End to End Engineering C#\\Modulo 4\\ProjetoMVC\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAACEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-18T17:54:56.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Contato.cs",
+              "DocumentMoniker": "C:\\Users\\wcfre\\Desktop\\End to End Engineering C#\\Modulo 4\\ProjetoMVC\\Models\\Contato.cs",
+              "RelativeDocumentMoniker": "Models\\Contato.cs",
+              "ToolTip": "C:\\Users\\wcfre\\Desktop\\End to End Engineering C#\\Modulo 4\\ProjetoMVC\\Models\\Contato.cs",
+              "RelativeToolTip": "Models\\Contato.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T17:47:57.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wcfre\\Desktop\\End to End Engineering C#\\Modulo 4\\ProjetoMVC\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\wcfre\\Desktop\\End to End Engineering C#\\Modulo 4\\ProjetoMVC\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T17:24:17.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AgendaContext.cs",
+              "DocumentMoniker": "C:\\Users\\wcfre\\Desktop\\End to End Engineering C#\\Modulo 4\\ProjetoMVC\\Context\\AgendaContext.cs",
+              "RelativeDocumentMoniker": "Context\\AgendaContext.cs",
+              "ToolTip": "C:\\Users\\wcfre\\Desktop\\End to End Engineering C#\\Modulo 4\\ProjetoMVC\\Context\\AgendaContext.cs",
+              "RelativeToolTip": "Context\\AgendaContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T17:49:59.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\wcfre\\Desktop\\End to End Engineering C#\\Modulo 4\\ProjetoMVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\wcfre\\Desktop\\End to End Engineering C#\\Modulo 4\\ProjetoMVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T17:34:05.199Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
